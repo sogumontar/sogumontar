@@ -11,6 +11,7 @@
 ### 🤵 About Me:
 - 🏦 I'm currently study at Del Institute Of Technology major in Software Engineering (D4)
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🐱 My Portofolio (https://sogumontar.herokuapp.com/)
 - 🤔 I use daily ```.java```,``` .php```, ```.sql```, ```.js```, ```.cpp```,```.dart```
 - 🌱 I’m CEO of Sotardok.official (sotardok.official@gmail.com)
 - 💬 Talk to me about foot ball, 
@@ -57,6 +58,6 @@
 #### Just Be Gratefull All The Time 
 
 ----
-Me: [Sogumontar Hendra Simangunsong](https://github.com/sogumontar)
+Me: [Sogumontar Hendra Simangunsong](https://sogumontar.herokuapp.com/)
 
 Last Edited on: 21/02/2021
