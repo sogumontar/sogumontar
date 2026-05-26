@@ -11,7 +11,7 @@
 ### 🤵 About Me:
 - 🏦 Graduated with a Bachelor's degree in Applied Software Engineering (D4) from Del Institute of Technology.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🐱 My Portofolio (https://sogumontar.herokuapp.com/)
+- 🐱 My Portofolio (https://sogumontar.github.io/profile/)
 - 🤔 I use daily ```.java```,``` .php```, ```.sql```, ```.js```, ```.cpp```,```.dart```
 - 🌱 I’m CEO of Sotardok.official (sotardok.official@gmail.com)
 - 💬 Talk to me about foot ball, 
